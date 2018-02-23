@@ -15,7 +15,6 @@
 int		ft_sqrt(int nb)
 {
 	int i;
-	int square;
 
 	i = 1;
 	square = 1;
